@@ -1,2 +1,2 @@
 # Quiz-Portal
-Examination portal for student and teacher.
+Examination portal for student and teacher using java.
